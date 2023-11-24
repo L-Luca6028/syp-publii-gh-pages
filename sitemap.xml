@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://l-luca6028.github.io/syp-publii-gh-pages/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://l-luca6028.github.io/syp-publii-gh-pages/</loc>
+</url>
+<url>
+<loc>https://l-luca6028.github.io/syp-publii-gh-pages/bautechnik.html</loc>
+<lastmod>2023-11-24T11:11:18+01:00</lastmod>
+</url>
+<url>
+<loc>https://l-luca6028.github.io/syp-publii-gh-pages/elektrotechnik.html</loc>
+<lastmod>2023-11-24T11:11:30+01:00</lastmod>
+</url>
+<url>
+<loc>https://l-luca6028.github.io/syp-publii-gh-pages/htl-saalfelden.html</loc>
+<lastmod>2023-11-24T10:41:59+01:00</lastmod>
+</url>
+<url>
+<loc>https://l-luca6028.github.io/syp-publii-gh-pages/informatik.html</loc>
+<lastmod>2023-11-24T11:11:07+01:00</lastmod>
+</url>
+<url>
+<loc>https://l-luca6028.github.io/syp-publii-gh-pages/mechatronik.html</loc>
+<lastmod>2023-11-24T11:11:37+01:00</lastmod>
+</url>
+</urlset>

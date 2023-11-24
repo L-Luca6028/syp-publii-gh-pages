@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://l-luca6028.github.io/syp-publii-gh-pages/sitemap.xml
